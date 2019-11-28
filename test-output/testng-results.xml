@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37367" started-at="2019-05-31T12:02:18Z" finished-at="2019-05-31T12:02:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37367" started-at="2019-05-31T12:02:18Z" finished-at="2019-05-31T12:02:55Z">
+      <class name="Assignment2.WalletHubReview">
+        <test-method status="PASS" signature="addReview()[pri:0, instance:Assignment2.WalletHubReview@394e1a0f]" name="addReview" duration-ms="37334" started-at="2019-05-31T12:02:18Z" description="Adding Review Comment on WalletHub" finished-at="2019-05-31T12:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReview -->
+      </class> <!-- Assignment2.WalletHubReview -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
